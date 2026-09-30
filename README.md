@@ -1,31 +1,37 @@
 # Abubakar Alfa | Junior Business & Data Analyst
 
-Welcome to my portfolio! I am a Junior Business/Data Analyst specializing in transforming raw data into interactive dashboards, statistical models, and actionable business insights. Below you will find my featured end-to-end analytics projects along with their technical source files.
+Welcome to my portfolio! I am a Junior Business/Data Analyst specializing in transforming raw data into interactive dashboards, statistical models, and actionable business insights across various domains including Healthcare, Sales, and HR.
 
 ---
 
-## 🩸 Project 1: Predict Blood Donation (End-to-End Case Study)
-
-* **Project Description:** An end-to-end data analytics project focused on analyzing and predicting blood donation patterns to help healthcare organizations optimize supply chains and anticipate donor turnout.
-* **Core Skills & Tools:** Power BI, Tableau, SQL, Excel, Data Modeling, Predictive Analytics
-
-### 📁 Technical Project Assets & Source Files:
-* **📊 Interactive Dashboard:** [View Live Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
-* **📉 Power BI Model:** [Download Power BI (.pbix) Source File](Predict-Blood-Donation.pbix)
-* **🗄️ Database Scripts:** [View SQL Queries & Data Prep Scripts](donation_queries.sql)
-* **🟢 Raw Dataset:** [Download Excel Source Data](blood_donation_data.xlsx)
-* **📄 Executive Summary:** [Read Full PDF Project Report](project_report.pdf)
+## 🩸 Project 1: Predict Blood Donation (Healthcare Case Study)
+* **Project Description:** An end-to-end data analytics project focused on analyzing and predicting blood donation patterns to help healthcare organizations optimize supply chains.
+* **Tools Used:** Power BI, SQL, Excel
+* **Project Assets:**
+  * [📄 Read Full PDF Project Report](Predicting Blood Donations.pdf)
+  * [📉 Download Power BI (.pbix) Source File](Predict-Blood-Donation.pbix)
 
 ---
 
-## 💼 Technical Skills
-* **Data Visualization:** Power BI (DAX, Power Query), Tableau Public
-* **Database Management:** SQL (Joins, Aggregations, Subqueries)
-* **Data Manipulation:** Microsoft Excel (VLOOKUP, Pivot Tables, Cleaning)
-* **Business Analysis:** Requirements Gathering, Process Mapping, Predictive Modeling
+## 💼 Project 2: Sales Performance & Revenue Dashboard
+* **Project Description:** A commercial data project analyzing regional sales trends, profit margins, and key growth indicators to maximize sales pipeline velocity.
+* **Tools Used:** Tableau Public, Excel, SQL
+* **Project Assets:**
+  * [📊 View Live Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+  * [🗄️ Database Scripts](sales_queries.sql)
 
 ---
+
+## 👥 Project 3: HR Employee Churn & Workforce Analytics
+* **Project Description:** An internal corporate analysis evaluating employee retention patterns, satisfaction levels, and performance metrics to minimize turnover.
+* **Tools Used:** Power BI, Power Query, DAX
+* **Project Assets:**
+  * [📄 Read Case Study Report](HR_Project_Report.pdf)
+  * [📉 Download Power BI (.pbix) Source File](HR_Analytics.pbix)
+
+---
+
 ## 📬 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/abubakar-alfa-11a062267](http://linkedin.com/in/abubakar-alfa-11a062267)
+* **LinkedIn:** [://linkedin.com](http://://linkedin.com)
 * **Email:** abubakaralfa1409@gmail.com
 * **Phone:** +971 55 976 4940 / +971 54 128 5026
