@@ -1,24 +1,29 @@
 # My Data Analytics Portfolio
 
-Welcome to my portfolio! I specialize in translating complex datasets into actionable business insights using Tableau, Power BI, and Python.
+Welcome to my portfolio! I am a Data Analyst specializing in transforming raw data into interactive dashboards and actionable business insights. Below you will find my featured end-to-end analytics projects along with their technical source files.
 
 ---
 
-## 📊 Project 1: Sales Performance Dashboard (Power BI)
-* **Description:** A comprehensive review of regional sales data to identify low-performing markets.
-* **Tools Used:** Power BI, DAX, Power Query
-* **View Project:** [Link to your hosted Power BI report, NovyPro, or LinkedIn post]
+## 🩸 Project 1: Predict Blood Donation (End-to-End Case Study)
+
+* **Project Description:** An end-to-end data analytics project focused on analyzing and predicting blood donation patterns to help healthcare organizations optimize supply chains and anticipate donor turnout.
+* **Core Skills & Tools:** Power BI, Tableau, SQL, Excel, Data Modeling, Predictive Analytics
+
+### 📁 Technical Project Assets & Source Files:
+* **📊 Interactive Dashboard:** [View Live Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+* **📉 Power BI Model:** [Download Power BI (.pbix) Source File](Predict-Blood-Donation.pbix)
+* **🗄️ Database Scripts:** [View SQL Queries & Data Prep Scripts](donation_queries.sql)
+* **🟢 Raw Dataset:** [Download Excel Source Data](blood_donation_data.xlsx)
+* **📄 Executive Summary:** [Read Full PDF Project Report](project_report.pdf)
 
 ---
 
-## 📈 Project 2: Customer Churn Analysis (Tableau)
-* **Description:** Interactive dashboard built to predict and track quarterly subscriber loss.
-* **Tools Used:** Tableau Public, Excel
-* **View Live Dashboard:** [Paste your Tableau Public URL here]
+## 💼 Additional Technical Skills
+* **Data Visualization:** Power BI (DAX, Power Query), Tableau Public
+* **Database Management:** SQL (Joins, Aggregations, Subqueries)
+* **Data Manipulation:** Microsoft Excel (VLOOKUP, Pivot Tables)
 
 ---
-
-## 📄 Project 3: Financial Market Case Study (PDF Report)
-* **Description:** A deep-dive written analysis of market trends during Q3.
-* **Tools Used:** SQL, PDF Document Export
-* **Read the Report:** [Link to your PDF file]
+## 📬 Let's Connect!
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Email:** your.email@example.com
