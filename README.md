@@ -1,6 +1,6 @@
-# My Data Analytics Portfolio
+# Abubakar Alfa | Junior Business & Data Analyst
 
-Welcome to my portfolio! I am a Data Analyst specializing in transforming raw data into interactive dashboards and actionable business insights. Below you will find my featured end-to-end analytics projects along with their technical source files.
+Welcome to my portfolio! I am a Junior Business/Data Analyst specializing in transforming raw data into interactive dashboards, statistical models, and actionable business insights. Below you will find my featured end-to-end analytics projects along with their technical source files.
 
 ---
 
@@ -18,12 +18,14 @@ Welcome to my portfolio! I am a Data Analyst specializing in transforming raw da
 
 ---
 
-## 💼 Additional Technical Skills
+## 💼 Technical Skills
 * **Data Visualization:** Power BI (DAX, Power Query), Tableau Public
 * **Database Management:** SQL (Joins, Aggregations, Subqueries)
-* **Data Manipulation:** Microsoft Excel (VLOOKUP, Pivot Tables)
+* **Data Manipulation:** Microsoft Excel (VLOOKUP, Pivot Tables, Cleaning)
+* **Business Analysis:** Requirements Gathering, Process Mapping, Predictive Modeling
 
 ---
 ## 📬 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/abubakar-alfa-11a062267](http://linkedin.com/in/abubakar-alfa-11a062267)
+* **Email:** abubakaralfa1409@gmail.com
+* **Phone:** +971 55 976 4940 / +971 54 128 5026
